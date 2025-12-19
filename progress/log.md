@@ -14,3 +14,6 @@
 - Transport protocols (WebSocket/TCP)
 - Message framing
 - Persistence or sync logic
+
+### Update
+- Introduced initial transport-layer server stub (compiles and boots)
